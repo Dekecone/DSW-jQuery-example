@@ -1,2 +1,2 @@
 # DSW-jQuery-example
-https://sky-adams-sbhs.github.io/DSW-jQuery-example/
+https://dekecone.github.io/DSW-jQuery-example/index.html
