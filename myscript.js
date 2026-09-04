@@ -10,4 +10,7 @@ $(document).ready(function() {
 		$("#p2").remove();
 		$("#p3").remove();
 	});
+	$("#imagetoggler").dblclick(function(){
+		$("#h1").remove();
+	});
 });
