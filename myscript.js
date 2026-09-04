@@ -6,4 +6,8 @@ $(document).ready(function() {
 		$("p").addClass("bright");
 		$("img").addClass("border");
 	});
+	$("#p1").click(function(){
+		$("#p2").remove();
+		$("#p3").remove();
+	});
 });
